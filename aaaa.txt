@@ -1,0 +1,12 @@
+total 64
+drwxr-xr-x@ 11 p  staff   352B Apr 22 17:38 .
+drwxr-xr-x  14 p  staff   448B Apr 22 17:36 ..
+-rw-r--r--   1 p  staff   6.0K Apr 22 17:24 .DS_Store
+drwxr-xr-x  15 p  staff   480B Apr 22 17:24 .git
+-rw-r--r--@  1 p  staff     4B Apr 22 09:20 111.txt
+-rw-r--r--@  1 p  staff    69B Apr 22 10:46 222.txt
+-rw-r--r--   1 p  staff    26B Apr 22 17:24 _config.yml
+-rw-r--r--   1 p  staff    17B Apr 22 17:24 a.txt
+-rw-r--r--   1 p  staff     0B Apr 22 17:38 aaaa.txt
+-rw-r--r--   1 p  staff     2B Apr 22 17:24 b.txt
+-rw-r--r--@  1 p  staff    43B Apr 22 14:57 w.html
